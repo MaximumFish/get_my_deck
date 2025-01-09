@@ -9,8 +9,7 @@ Python - Latest is fine
 Selenium Chrome Drivers for Python via PIP
 https://tecadmin.net/setup-selenium-with-python-on-ubuntu-debian/
 
-Free Twilio Account and installation via PIP
-pip install twilio 
+Telegram bot token
 
 Pycharm(or another IDE) - optional
 If you require a different model size, then a tiny bit of googling/coding to change the text params to capture the different size model
